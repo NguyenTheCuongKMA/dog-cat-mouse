@@ -1,1 +1,5 @@
-function Cat(){}
+function Cat(){
+
+}
+
+Module.exports = Cat ;
