@@ -12,3 +12,10 @@ git checkout A trước
 merge B vào A 
 eg : git checkout master 
         git merge B vào A 
+
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
