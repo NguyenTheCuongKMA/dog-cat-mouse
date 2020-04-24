@@ -6,4 +6,4 @@ function Mouse(name){
         this.die = true ;
     }
     
-Module.exports = Mouse ;
+    module.exports = Mouse ;
